@@ -1,6 +1,4 @@
-# Factors-of-success-in-abstract-theoretical-course
-
-# Student Engagement & Grade Prediction — ML Analysis
+# Factors of success in abstract theoretical course — ML Analysis
 
 A machine learning project analyzing student engagement patterns in an online university course and predicting final grades based on activity data. The dataset spans two years of the same course (Year A and Year B), enabling cross-year comparison of behavioral patterns and model performance.
 
