@@ -123,7 +123,7 @@ Two ensemble strategies applied to both datasets:
 
 | Name | Contributions |
 |------|--------------|
-| Kirill Ryrmak | Random Forest, Stacking & Voting ensemble models, preprocessing support, correlations & statistical analysis |
+| Kirill | Random Forest, Stacking & Voting ensemble models, preprocessing support, correlations & statistical analysis |
 | Peeter | Preprocessing, Correlation visualization, Logistic Regression, XGBoost |
 | Aksel | PCA, correlations & statistical analysis |
 | Julius | ANOVA, time-series format analysis, multi-Linear Regression, correlations & statistical analysis |
